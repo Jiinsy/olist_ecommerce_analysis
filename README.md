@@ -215,6 +215,7 @@ ORDER BY product_category_name, rank;
 ## 🤝 Контакты
 
 **Анатолий**
+
 🐙 GitHub: [@Jiinsy](https://github.com/Jiinsy)  
 📅 Дата создания: Февраль 2026
 
