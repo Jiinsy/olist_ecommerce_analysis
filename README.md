@@ -130,15 +130,15 @@ olist-project
 ## 📊 Примеры визуализаций
 
 ### Динамика продаж по месяцам
-![Sales Trend](analytical_project/visualizations/Динамика выручки по месяцам.png)
+<img width="4172" height="1771" alt="Динамика выручки по месяцам" src="https://github.com/user-attachments/assets/6d9f4ad5-de03-42d3-973c-fcec8fb6823b" />
 *График показывает устойчивый рост с пиком в ноябре 2017 (Black Friday)*
 
-### Распределение заказов по категориям
-![Category Distribution](analytical_project/visualizations/Выручка по каждой категории товара.png)
-*Топ-10 категорий по количеству заказов*
+### Распределение выручки по категориям
+<img width="3541" height="1768" alt="Выручка по каждой категории товара" src="https://github.com/user-attachments/assets/3f5a205d-eeb2-49fa-80ed-8fa4cb90f1df" />
+*Топ-10 категорий по выручке*
 
 ### Время доставки по регионам
-![Delivery Time](analytical_project/visualizations/Количество дней доставки по штатам.png)
+<img width="3567" height="1768" alt="Количество дней доставки по штатам" src="https://github.com/user-attachments/assets/04aa8551-e94c-40ca-afa6-ac7b378d3ecd" />
 *Северные и северо-восточные штаты имеют значительно большее время доставки*
 
 ---
