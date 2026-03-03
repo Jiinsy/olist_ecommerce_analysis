@@ -17,6 +17,11 @@
 
 ---
 
+📁 **Где взять данные:**
+Скачайте датасет: [Kaggle - Brazilian E-Commerce](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
+
+---
+
 ## 📁 Структура проекта
 
 ```
